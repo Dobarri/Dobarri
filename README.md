@@ -13,7 +13,7 @@ Dobarri/Dobarri is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2>👋Profile</h2> 
+<h2>👋 Profile</h2> 
 AI에 관심이 있는 대학생 김도경입니다. 완전자율주행 가능할까요??
 <br><br>
 
@@ -24,7 +24,7 @@ AI에 관심이 있는 대학생 김도경입니다. 완전자율주행 가능�
 - AI
 
 <br>
-<h2>💻Activity</h2>
+<h2>💻 Activity</h2>
 
 - 18.03.04 ~ 18.6.22    창업동아리 mvp(유형검사에 따른 향수 추천)
 - 18.04 ~ 18.04    미국 유수대학 탐방(UC Davis, UC Bercley, Statnford)
@@ -38,7 +38,7 @@ AI에 관심이 있는 대학생 김도경입니다. 완전자율주행 가능�
 
 <br>
 
-<h2>⭐️Awards</h2>
+<h2>⭐️ Awards</h2>
 
 - 17.3~18.7  성적우수 표창장
 - 17.9~18.12	 오현호기금장학금(전액)
