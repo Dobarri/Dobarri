@@ -23,7 +23,7 @@ AI에 관심이 있는 대학생 김도경입니다. 완전자율주행 가능�
 - Autonomous Vehicles
 - AI
 
-<br><br>
+<br>
 <h2>💻Activity</h2>
 
 - 18.03.04 ~ 18.6.22    창업동아리 mvp(유형검사에 따른 향수 추천)
@@ -36,7 +36,7 @@ AI에 관심이 있는 대학생 김도경입니다. 완전자율주행 가능�
 - 22.03 ~	   교내 학술동아리 binary 운영진
 - 22.05 ~    전공심화공동체(DL을 활용한 CV)
 
-<br><br>
+<br>
 
 <h2>⭐️Awards</h2>
 
@@ -46,5 +46,5 @@ AI에 관심이 있는 대학생 김도경입니다. 완전자율주행 가능�
 - 18.5~18.5	(달걀 떨어뜨리기) 창의경진대회 우수상
 - 22.3  PK장학재단 기금장학금
 
-<br><br>
+<br>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a> <a href="https://www.instagram.com/ehrud_97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a> <a href="https://dobarri-ai.tistory.com/category"><img src="https://img.shields.io/badge/Tstory-7952B3?style=flat-square&logo=&logoColor=white"></a> 
