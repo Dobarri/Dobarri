@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 AI에 관심이 있는 대학생 김도경입니다. 완전자율주행 가능할까요??
 <br><br>
 
-<h2>🌱Interests</h2>
+<h2>🌱 Interests</h2>
 
 - Computer Vision
 - Autonomous Vehicles
