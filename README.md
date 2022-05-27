@@ -19,10 +19,34 @@ AI에 관심이 있는 대학생 김도경입니다. 완전자율주행 가능�
 <br>
 
 <h2>🌱Interests</h2>
-💻<br>
-- Computer Vision<br>
-- Autonomous Vehicles<br>
-- AI<br>
+
+- Computer Vision
+- Autonomous Vehicles
+- AI
+
+<br>
+<br>
+<h2>💻Activity</h2>
+
+- 18.03.04 ~ 18.6.22    창업동아리 mvp(유형검사에 따른 향수 추천)
+- 18.04 ~ 18.04    미국 유수대학 탐방(UC Davis, UC Bercley, Statnford)
+- 21.08 ~    인공지능 동아리 SAI
+- 21.08 ~ 21.10    디캠프 10월 D.DAY X 캠퍼스리그 창업대회(본선 진출)
+- 21.7~21.12    현대 엔지비 지능형자동차 분야 인지, 제어, 통신 및 네트워크, 판단 과정 수료
+- 21.12 ~ 22.02 	  Intellegent Vehicle Perception Laboratory 학부연구생
+- 21.12 ~	   교내 학술동아리 binary
+- 21.03 ~	   교내 학술동아리 binary 운영진
+
+<br>
+<br>
+
+<h2>⭐️Awards</h2>
+
+- 17.3~18.7  성적우수 표창장
+- 17.9~18.12	 오현호기금장학금(전액)
+- 17.12.11	 교내 rc창의교육멘토링 우수상
+- 18.5~18.5	(달걀 떨어뜨리기) 창의경진대회 우수상
+- 22.3  PK장학재단 기금장학금
 
 <br>
 <br>
