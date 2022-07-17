@@ -31,12 +31,13 @@ AI에 관심이 있는 대학생입니다. 완전자율주행 가능할까요??
 - 21.08 ~    인공지능 동아리 SAI
 - 21.08 ~ 21.10    디캠프 10월 D.DAY X 캠퍼스리그 창업대회(본선 진출)
 - 21.07~21.12    현대엔지비 지능형자동차 분야 인지, 제어, 통신 및 네트워크, 판단 과정 수료
-- 21.12 ~ 22.02 	  Intellegent Vehicle Perception Laboratory 학부연구생
+- 21.12 ~ 22.02 	  Intellegent Vehicle Perception Group 학부연구생
 - 21.12 ~	   교내 학술동아리 Binary
 - 22.03 ~	   교내 학술동아리 Binary 운영진
 - 22.05 ~    전공심화공동체(DL을 활용한 CV)
 - 22.07 ~    현대자동차 H-mobility
 - 22.07 ~    LG aimers
+- 22.07 ~ 	 Intellegent Vehicle Perception Group 학부연구생
 
 <br>
 
