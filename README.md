@@ -36,8 +36,7 @@ AI에 관심이 있는 대학생입니다. 완전자율주행 가능할까요??
 - 22.03 ~	   교내 학술동아리 Binary 운영진
 - 22.05 ~    전공심화공동체(DL을 활용한 CV)
 - 22.07 ~    현대자동차 H-mobility
-- 22.07 ~    LG aimers
-- 22.07 ~ 	 Intellegent Vehicle Perception Group 학부연구생
+- 22.07 ~ 22.08	 Intellegent Vehicle Perception Group 학부연구생
 
 <br>
 
