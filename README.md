@@ -27,16 +27,17 @@ AI에 관심이 있는 대학생입니다. 완전자율주행 가능할까요??
 <h2>💻 Activity</h2>
 
 - 18.03 ~ 18.6    창업동아리 mvp(유형검사에 따른 향수 추천)
-- 18.04 ~ 18.04    미국 유수대학 탐방(UC Davis, UC Berkeley, Statnford)
-- 21.08 ~    인공지능 동아리 SAI
-- 21.08 ~ 21.10    디캠프 10월 D.DAY X 캠퍼스리그 창업대회(본선 진출)
-- 21.07~21.12    현대엔지비 지능형자동차 분야 인지, 제어, 통신 및 네트워크, 판단 과정 수료
-- 21.12 ~ 22.02 	  Intellegent Vehicle Perception Group 학부연구생
+- 18.04 ~ 18.04   미국 유수대학 탐방(UC Davis, UC Berkeley, Statnford)
+- 21.08 ~ 21.12   인공지능 동아리 SAI
+- 21.08 ~ 21.10   디캠프 10월 D.DAY X 캠퍼스리그 창업대회(본선 진출)
+- 21.07 ~ 21.12   현대엔지비 지능형자동차 분야 인지, 제어, 통신 및 네트워크, 판단 과정 수료
+- 21.12 ~ 22.02 	Intellegent Vehicle Perception Group 학부연구생
 - 21.12 ~	   교내 학술동아리 Binary
 - 22.03 ~	   교내 학술동아리 Binary 운영진
 - 22.05 ~    전공심화공동체(DL을 활용한 CV)
 - 22.07 ~    현대자동차 H-mobility
 - 22.07 ~ 22.08	 Intellegent Vehicle Perception Group 학부연구생
+- 22.09 ~   RCV Lab 학부연구생
 
 <br>
 
