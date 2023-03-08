@@ -22,9 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 <br> 
 <h2> 🎓Education</h2>
-- M.S.Dept. of Intelligent Mechatronics Engineering, Sejong Univ. RCV Lab
-- B.S.Dept. of Intelligent Mechatronics Engineering, Sejong Univ. 
-</br>
+- M.S.Dept. of Intelligent Mechatronics Engineering, Sejong Univ. RCV Lab<br>
+- B.S.Dept. of Intelligent Mechatronics Engineering, Sejong Univ.<br>
 
 <br>
 <h2>💻 Experience</h2>
@@ -35,12 +34,10 @@ You can click the Preview link to take a look at your changes.
 - 22.07 ~ 22.12   Completion of HYUNDAI MOTOR GROUP H-Mobility Class course<br>
 - 22.07 ~ 22.08	 Undergraduate student Research Member at Intellegent Vehicle Perception Group;IVPG<br>
 - 22.09 ~ 22.02  Undergraduate student Research Member at Robotics and Computer Vision lab;RCV<br>
-</br>
 
 <br>
 <h2>⭐️ Awards</h2>
 - 2022 sejong AI challenge Encouragement Award
-</br>
 
 <br>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>  <a href="https://dobarri-ai.tistory.com/category"><img src="https://img.shields.io/badge/Tstory-7952B3?style=flat-square&logo=&logoColor=white"></a> 
