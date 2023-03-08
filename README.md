@@ -26,9 +26,7 @@ You can click the Preview link to take a look at your changes.
 - B.S.Dept. of Intelligent Mechatronics Engineering, Sejong Univ. 
 
 <br>
-
 <h2>💻 Experience</h2>
-
 - 21.07 ~ 21.12   Completion of HYUNDAI NGV(Perception, Decision, control, and communication and network in the field of intelligent vehicles
 - 21.08 ~ 21.12   member of Sejong Artificial Inteligence club;SAI
 - 21.12 ~ 22.02 	Undergraduate student Research Member at Intellegent Vehicle Perception Group;IVPG
@@ -38,9 +36,7 @@ You can click the Preview link to take a look at your changes.
 - 22.09 ~ 22.02  Undergraduate student Research Member at Robotics and Computer Vision lab;RCV
 
 <br>
-
 <h2>⭐️ Awards</h2>
-
 - 2022 sejong AI challenge Encouragement Award
 
 <br>
