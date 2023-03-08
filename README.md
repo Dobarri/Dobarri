@@ -16,27 +16,31 @@ You can click the Preview link to take a look at your changes.
 
 <h2>🌱 Interests</h2>
 
-- Computer Vision
 - Autonomous Vehicles
+- Computer Vision
 - AI
 
 <br>
-<h2>💻 Activity</h2>
+<h2> Education</h2>
+- M.S.Dept. of Intelligent Mechatronics Engineering, Sejong Univ. RCV Lab
+- B.S.Dept. of Intelligent Mechatronics Engineering, Sejong Univ. 
 
-- 18.04 ~ 18.04   미국 유수대학 탐방(UC Davis, UC Berkeley, Statnford)
-- 21.08 ~ 21.12   인공지능 동아리 SAI
-- 21.07 ~ 21.12   현대엔지비 지능형자동차 분야 인지, 제어, 통신 및 네트워크, 판단 과정 수료
-- 21.12 ~ 22.02 	Intellegent Vehicle Perception Group 학부연구생
-- 22.05 ~  22.07  전공심화공동체(DL을 활용한 CV)
-- 22.07 ~ 22.12   현대자동차 H-mobility
-- 22.07 ~ 22.08	 Intellegent Vehicle Perception Group 학부연구생
-- 22.09 ~   RCV Lab 학부연구생
+<br>
+<h2>💻 Experience</h2>
+
+- 21.07 ~ 21.12   Completion of HYUNDAI NGV(Perception, Decision, control, and communication and network in the field of intelligent vehicles
+- 21.08 ~ 21.12   member of Sejong Artificial Inteligence club;SAI
+- 21.12 ~ 22.02 	Undergraduate student Research Member at Intellegent Vehicle Perception Group;IVPG
+- 22.02 ~ 23.03   member of acedemic club;Binary
+- 22.07 ~ 22.12   Completion of HYUNDAI MOTOR GROUP H-Mobility Class course
+- 22.07 ~ 22.08	 Undergraduate student Research Member at Intellegent Vehicle Perception Group;IVPG
+- 22.09 ~ 22.02  Undergraduate student Research Member at Robotics and Computer Vision lab;RCV
 
 <br>
 
 <h2>⭐️ Awards</h2>
 
-- 2022 sejong AI challenge 장려상
+- 2022 sejong AI challenge Encouragement Award
 
 <br>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a> <a href="https://www.instagram.com/ehrud_97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a> <a href="https://dobarri-ai.tistory.com/category"><img src="https://img.shields.io/badge/Tstory-7952B3?style=flat-square&logo=&logoColor=white"></a> 
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>  <a href="https://dobarri-ai.tistory.com/category"><img src="https://img.shields.io/badge/Tstory-7952B3?style=flat-square&logo=&logoColor=white"></a> 
