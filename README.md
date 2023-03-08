@@ -20,12 +20,13 @@ You can click the Preview link to take a look at your changes.
 - Computer Vision
 - AI
 
-<br>
-<h2> Education</h2>
+<br> 
+<h2> 🎓Education</h2>
 - M.S.Dept. of Intelligent Mechatronics Engineering, Sejong Univ. RCV Lab
 - B.S.Dept. of Intelligent Mechatronics Engineering, Sejong Univ. 
 
 <br>
+
 <h2>💻 Experience</h2>
 
 - 21.07 ~ 21.12   Completion of HYUNDAI NGV(Perception, Decision, control, and communication and network in the field of intelligent vehicles
