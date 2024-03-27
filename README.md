@@ -20,11 +20,6 @@ You can click the Preview link to take a look at your changes.
 - Computer Vision
 - AI
 
-<br> 
-<h2> 🎓Education</h2>
-- M.S.Dept. of Intelligent Mechatronics Engineering, Sejong Univ. RCV Lab<br>
-- B.S.Dept. of Intelligent Mechatronics Engineering, Sejong Univ.<br>
-
 <br>
 <h2>💻 Experience</h2>
 - 21.07 ~ 21.12   HYUNDAI NGV course(Perception, Decision, control, and communication and network in the field of intelligent vehicles)<br>
@@ -34,6 +29,7 @@ You can click the Preview link to take a look at your changes.
 - 22.07 ~ 22.12   HYUNDAI MOTOR GROUP H-Mobility Class course<br>
 - 22.07 ~ 22.08	 Undergraduate student Research Member at Intellegent Vehicle Perception Group;IVPG<br>
 - 22.09 ~ 22.02  Undergraduate student Research Member at Robotics and Computer Vision lab;RCV<br>
+- 23.11 ~ 24.04   Intelligent Vehicle School for embedded/autonomous driving SW (HL Mando & HL Klemove) <br>
 
 <br>
 <h2>⭐️ Awards</h2>
